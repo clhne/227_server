@@ -65,7 +65,7 @@ plainbox==0.5.3
 prompt-toolkit==1.0.15
 protobuf==3.6.1
 prox==0.0.17
-psutil==5.4.7
+psutil==5.6.6
 ptyprocess==0.6.0
 pycrypto==2.6.1
 pycurl==7.19.3

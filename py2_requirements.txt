@@ -2,7 +2,7 @@ opencv-python==3.4.3.18
 paddlepaddle==0.15.0
 Pillow==2.3.0
 protobuf==3.6.1
-psutil==5.4.7
+psutil==5.6.6
 pygpgme==0.3
 pyliblzma==0.5.3
 pyOpenSSL==0.13

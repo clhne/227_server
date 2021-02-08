@@ -32,7 +32,7 @@ gast==0.2.0
 grpcio==1.15.0
 h5py==2.8.0
 html5lib==0.999
-httplib2==0.8
+httplib2==0.19.0
 ipython==6.5.0
 ipython-genutils==0.2.0
 jedi==0.12.1

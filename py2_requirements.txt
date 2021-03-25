@@ -8,7 +8,7 @@ pyliblzma==0.5.3
 pyOpenSSL==0.13
 pyparsing==2.2.0
 pysmbc==1.0.14.1
-PyYAML==3.13
+PyYAML==5.4
 requests==2.2.1
 scikit-learn==0.19.1
 scipy==1.1.0

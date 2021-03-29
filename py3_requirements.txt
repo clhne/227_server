@@ -69,7 +69,7 @@ psutil==5.4.7
 ptyprocess==0.6.0
 pycrypto==2.6.1
 pycurl==7.19.3
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.12.0
 pyparsing==2.0.1
 PySocks==1.6.8

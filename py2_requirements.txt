@@ -1,4 +1,4 @@
-opencv-python==3.4.3.18
+opencv-python==4.2.0.32
 paddlepaddle==0.15.0
 Pillow==2.3.0
 protobuf==3.6.1

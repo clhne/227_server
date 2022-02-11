@@ -63,7 +63,7 @@ pickleshare==0.7.4
 piston-mini-client==0.7.5
 plainbox==0.5.3
 prompt-toolkit==1.0.15
-protobuf==3.6.1
+protobuf==3.15.0
 prox==0.0.17
 psutil==5.4.7
 ptyprocess==0.6.0

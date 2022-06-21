@@ -51,7 +51,7 @@ Markdown==2.6.11
 MarkupSafe==0.18
 matplotlib==2.2.3
 memory-profiler==0.54.0
-numpy==1.14.5
+numpy==1.22.0
 oauthlib==0.6.1
 onboard==1.0.1
 oneconf==0.3.7.14.4.1

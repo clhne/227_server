@@ -9,7 +9,7 @@ pyOpenSSL==0.13
 pyparsing==2.2.0
 pysmbc==1.0.14.1
 PyYAML==3.13
-requests==2.2.1
+requests==2.20.0
 scikit-learn==0.19.1
 scipy==1.1.0
 tensorboard==1.11.0
